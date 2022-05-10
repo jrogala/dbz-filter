@@ -1,0 +1,8 @@
+Download video from dbz: ask Jimmy
+
+Extract pics from video: 
+    python ./bin/splitter.py -i ./data/s01ep01.mkv -o ./data/small -k 1000
+
+run main
+
+Enjoy noise

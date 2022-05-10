@@ -32,7 +32,7 @@ nz = 100 # Size of z latent vector (i.e. size of generator input)
 ngf = 64 # Size of feature maps in generator
 ndf = 64 # Size of feature maps in discriminator
 num_epochs = 5 # Number of training epochs
-lr = 0.00002 # Learning rate for optimizers
+lr = 0.0002 # Learning rate for optimizers
 beta1 = 0.5 # Beta1 hyperparam for Adam optimizers
 ngpu = 1 # Number of GPUs available. Use 0 for CPU mode.
 
